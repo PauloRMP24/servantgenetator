@@ -1,4 +1,4 @@
-# servantgenetator
+# servantgenerator
 A tool for making easy servant status screens
 
 Credits to Renari for the original code, gyrowins for assets and zikari8 for the updated version
